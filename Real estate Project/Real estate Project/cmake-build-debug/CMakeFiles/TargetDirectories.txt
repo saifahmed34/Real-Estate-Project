@@ -1,0 +1,3 @@
+C:/Users/mo528/CLionProjects/New folder/Project_fund2_Dogy_DataBaseV1.2/Project fund2/cmake-build-debug/CMakeFiles/Project_fund2.dir
+C:/Users/mo528/CLionProjects/New folder/Project_fund2_Dogy_DataBaseV1.2/Project fund2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mo528/CLionProjects/New folder/Project_fund2_Dogy_DataBaseV1.2/Project fund2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

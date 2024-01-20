@@ -1,0 +1,6 @@
+Saif1234 Deposit +150 Current Balance:150
+mostafa Deposit +10000 Current Balance:10000
+saif Deposit +12501 Current Balance:12501
+saif Deposit +200 Current Balance:12701
+saif withdraw -465 Current Balance:12236
+saif withdraw -120 Current Balance:12116
